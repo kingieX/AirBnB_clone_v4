@@ -160,5 +160,7 @@ Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
 
 Second part of Airbnb: Joann Vuong
+
+Third part of AirBnb: Nnachi Kingsley Chima - [Github](https://github.com/kingieX) / [Twitter](https://twitter.com/KingsleyChimaN1)
 ## License
 Public Domain. No copy write protection. 
